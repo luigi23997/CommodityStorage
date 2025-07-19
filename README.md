@@ -37,5 +37,5 @@ storage.cost_overview()
 
 
 ## Test.ipyn
-In test.ipynb there an example with the analysis of natural gas storage, with price prediction using Fourier series and linear regression.
+In test.ipynb there an example with the analysis of natural gas storage, with price prediction using Fourier series and linear regression. Data from JPMorgan Chase & Co. Quantitative Research Job Simulation - Forage
 
